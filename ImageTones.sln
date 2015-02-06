@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTones", "src\ImageTones\ImageTones.csproj", "{BB8EEB97-6550-4780-97B2-B0F2FCD80970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTones.Tests", "test\ImageTones.Tests\ImageTones.Tests.csproj", "{564D6482-B406-4B93-8D17-5EDC4A74698B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Trial|Any CPU = Trial|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8EEB97-6550-4780-97B2-B0F2FCD80970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8EEB97-6550-4780-97B2-B0F2FCD80970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8EEB97-6550-4780-97B2-B0F2FCD80970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8EEB97-6550-4780-97B2-B0F2FCD80970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8EEB97-6550-4780-97B2-B0F2FCD80970}.Trial|Any CPU.ActiveCfg = Trial|Any CPU
+		{BB8EEB97-6550-4780-97B2-B0F2FCD80970}.Trial|Any CPU.Build.0 = Trial|Any CPU
+		{564D6482-B406-4B93-8D17-5EDC4A74698B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564D6482-B406-4B93-8D17-5EDC4A74698B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564D6482-B406-4B93-8D17-5EDC4A74698B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564D6482-B406-4B93-8D17-5EDC4A74698B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564D6482-B406-4B93-8D17-5EDC4A74698B}.Trial|Any CPU.ActiveCfg = Release|Any CPU
+		{564D6482-B406-4B93-8D17-5EDC4A74698B}.Trial|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
